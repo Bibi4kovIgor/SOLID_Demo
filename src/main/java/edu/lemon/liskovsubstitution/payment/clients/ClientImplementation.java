@@ -9,7 +9,7 @@ public class ClientImplementation {
         this.payment = payment;
     }
 
-    public void service() {
+    public void service(){
         payment.pay();
     }
 }

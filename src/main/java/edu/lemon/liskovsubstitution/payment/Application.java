@@ -1,5 +1,6 @@
 package edu.lemon.liskovsubstitution.payment;
 
+import edu.lemon.liskovsubstitution.payment.clients.ClientImplementation;
 import edu.lemon.liskovsubstitution.payment.clients.RefundableClientImplementation;
 import edu.lemon.liskovsubstitution.payment.paymentgateways.*;
 
